@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="178px" height="64px" viewBox="0 0 178 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Qantas</title>
+    <defs>
+        <path d="M-9.92131681e-16,0 L-9.92131681e-16,0 L-9.92131681e-16,0 L0.350444225,0.91 L1.96248766,5.11 L10.6535044,28 L39.3899309,28 L16.4007897,4.9 C13.3168806,1.82 9.11154985,0 4.76604146,0 L-9.92131681e-16,0 Z" id="path-1"></path>
+        <linearGradient x1="62.4488861%" y1="67.8895315%" x2="33.2170428%" y2="25.8516124%" id="linearGradient-3">
+            <stop stop-color="#BE0000" offset="0%"></stop>
+            <stop stop-color="#DD0000" offset="38.28%"></stop>
+            <stop stop-color="#F60000" offset="76.63%"></stop>
+            <stop stop-color="#FF0000" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="3.98798029e-15" y="0" width="142" height="28"></rect>
+        <path d="M0,0.98 L0,2.94 L0,2.94 C0.84106614,2.66 1.82230997,2.52 2.66337611,2.38 L2.66337611,1.26 C2.66337611,1.26 1.33168806,1.33 0.56071076,0 C0.84106614,0.42 0.56071076,0.98 0,0.98" id="path-6"></path>
+        <linearGradient x1="45.5912765%" y1="96.3241487%" x2="52.8131708%" y2="8.49625896%" id="linearGradient-8">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="65%"></stop>
+            <stop stop-color="#E0E0E0" offset="72.82%"></stop>
+            <stop stop-color="#C5C5C5" offset="81.47%"></stop>
+            <stop stop-color="#B5B5B5" offset="89.15%"></stop>
+            <stop stop-color="#AFAFAF" offset="95%"></stop>
+            <stop stop-color="#AFAFAF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,0.14 C4.41559724,0.98 8.69101678,2.87 12.4057256,5.88 C6.3780849,0.77 2.73346496,0 1.05133268,0 C0.490621915,0 0.070088845,0.14 0,0.14" id="path-9"></path>
+        <linearGradient x1="0.180227345%" y1="50.4623156%" x2="100.426351%" y2="50.4623156%" id="linearGradient-11">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F1F1F1" offset="8.327577%"></stop>
+            <stop stop-color="#D4D4D4" offset="29.19%"></stop>
+            <stop stop-color="#C0C0C0" offset="49.94%"></stop>
+            <stop stop-color="#B3B3B3" offset="70.35%"></stop>
+            <stop stop-color="#AFAFAF" offset="90%"></stop>
+            <stop stop-color="#AFAFAF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M2.33442749e-16,-3.10862447e-16 L1.61204344,4.2 C4.76604146,9.59 13.0365252,10.15 13.9476802,18.48 C13.0365252,7.84 8.34057256,9.45 3.29417572,4.55 C1.96248766,3.57 0.84106614,2.24 2.33442749e-16,-3.10862447e-16 Z" id="path-12"></path>
+        <linearGradient x1="-0.103525253%" y1="49.7791109%" x2="100.059623%" y2="49.7791109%" id="linearGradient-14">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="25%"></stop>
+            <stop stop-color="#ECECEC" offset="46.49%"></stop>
+            <stop stop-color="#BBBBBB" offset="89.83%"></stop>
+            <stop stop-color="#AFAFAF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-15" x="3.98798029e-15" y="0" width="142" height="28"></rect>
+        <rect id="path-17" x="3.98798029e-15" y="0" width="142" height="28"></rect>
+        <rect id="path-19" x="3.98798029e-15" y="0" width="142" height="28"></rect>
+        <rect id="path-21" x="3.98798029e-15" y="0" width="142" height="28"></rect>
+        <rect id="path-23" x="3.98798029e-15" y="0" width="142" height="28"></rect>
+        <rect id="path-25" x="3.98798029e-15" y="0" width="142" height="28"></rect>
+    </defs>
+    <g id="Taskboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Qantas">
+            <rect id="Rectangle" x="0" y="0" width="178" height="64"></rect>
+            <g id="qantas-masterbrand-logo-40px" transform="translate(18.000000, 18.000000)">
+                <g id="Clipped" transform="translate(0.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="SVGID_1_"></g>
+                    <polygon id="Path" fill="url(#linearGradient-3)" fill-rule="nonzero" mask="url(#mask-2)" points="12.5459033 46.34 -13.106614 8.96 26.8440276 -18.34 52.4965449 19.04"></polygon>
+                </g>
+                <g id="Clipped">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <g id="SVGID_4_"></g>
+                    <path d="M1.96248766,5.11 C5.11648569,10.5 13.3869694,11.06 14.2981244,19.39 C14.3682132,19.74 14.5784798,20.02 14.928924,20.09 C19.6949654,20.86 24.3208292,22.82 28.3859822,26.04 L28.3859822,26.04 C28.3859822,26.04 28.4560711,26.04 28.4560711,26.04 C28.5261599,26.04 28.5261599,26.04 28.5261599,25.97 C28.5962488,25.9 28.5962488,25.83 28.5261599,25.76 C25.7226061,22.82 22.3583416,20.51 18.5034551,18.97 L17.3119447,18.48 C16.6811451,18.27 16.3307009,17.64 16.3307009,16.94 C16.4007897,14.42 22.2882527,14.98 22.9190523,13.72 L22.9891412,13.51 C21.7976308,12.46 20.3257651,11.69 18.7137216,11.27 C18.7137216,11.34 18.6436328,11.62 18.994077,12.18 C19.3445212,12.74 18.6436328,13.65 17.5222113,12.67 L17.4521224,12.67 C9.46199408,5.39 3.50444225,9.17 0.350444225,0.98 L1.96248766,5.11 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-5)"></path>
+                </g>
+                <g id="Clipped" transform="translate(18.433366, 12.180000)">
+                    <mask id="mask-7" fill="white">
+                        <use xlink:href="#path-6"></use>
+                    </mask>
+                    <g id="SVGID_6_"></g>
+                    <polygon id="Path" fill="url(#linearGradient-8)" fill-rule="nonzero" mask="url(#mask-7)" points="-0.210266535 2.94 0.070088845 -0.14 2.94373149 0.07 2.66337611 3.22"></polygon>
+                </g>
+                <g id="Clipped" transform="translate(15.840079, 20.090000)">
+                    <mask id="mask-10" fill="white">
+                        <use xlink:href="#path-9"></use>
+                    </mask>
+                    <g id="SVGID_13_"></g>
+                    <rect id="Rectangle" fill="url(#linearGradient-11)" fill-rule="nonzero" mask="url(#mask-10)" x="0" y="0" width="12.4057256" height="5.88"></rect>
+                </g>
+                <g id="Clipped" transform="translate(0.350444, 0.980000)">
+                    <mask id="mask-13" fill="white">
+                        <use xlink:href="#path-12"></use>
+                    </mask>
+                    <g id="SVGID_18_"></g>
+                    <rect id="Rectangle" fill="url(#linearGradient-14)" fill-rule="nonzero" mask="url(#mask-13)" x="2.33442749e-16" y="-3.10862447e-16" width="13.8775913" height="18.48"></rect>
+                </g>
+                <g id="Group">
+                    <g id="Clipped">
+                        <mask id="mask-16" fill="white">
+                            <use xlink:href="#path-15"></use>
+                        </mask>
+                        <g id="SVGID_23_"></g>
+                        <path d="M42.3336624,22.89 C36.6564659,22.89 33.011846,19.95 33.011846,16.24 C33.011846,12.46 36.8667325,9.59 42.4738401,9.59 C48.0809477,9.59 51.9358342,12.46 51.9358342,16.1 C51.9358342,17.71 51.2349457,19.04 49.8331688,20.16 L53.1974334,20.16 L52.4264561,21.56 C51.9358342,22.4 51.3050346,22.96 49.9733465,22.96 L42.3336624,22.96 L42.3336624,22.89 Z M42.4738401,19.81 C45.5577493,19.81 48.2211254,18.27 48.2211254,16.17 C48.2211254,14.07 45.6278381,12.53 42.4738401,12.53 C39.3899309,12.53 36.7265548,14.07 36.7265548,16.17 C36.7966436,18.34 39.3899309,19.81 42.4738401,19.81" id="Shape" fill="#323232" fill-rule="nonzero" mask="url(#mask-16)"></path>
+                    </g>
+                    <g id="Clipped">
+                        <mask id="mask-18" fill="white">
+                            <use xlink:href="#path-17"></use>
+                        </mask>
+                        <g id="SVGID_23_"></g>
+                        <path d="M67.1451135,20.58 L58.2438302,20.58 L56.982231,22.82 L53.1974334,22.82 L59.4353406,12.11 C59.9259625,11.27 60.6268509,10.64 62.0286278,10.64 L63.4304047,10.64 C64.8321816,10.64 65.5330701,11.27 66.023692,12.11 L72.2615992,22.82 L68.4768016,22.82 L67.1451135,20.58 Z M59.715696,17.92 L65.6031589,17.92 L62.869694,13.02 C62.7996051,12.88 62.7295163,12.88 62.6594274,12.88 C62.5893386,12.88 62.5192498,12.88 62.4491609,13.02 L59.715696,17.92 Z" id="Shape" fill="#323232" fill-rule="nonzero" mask="url(#mask-18)"></path>
+                    </g>
+                    <g id="Clipped">
+                        <mask id="mask-20" fill="white">
+                            <use xlink:href="#path-19"></use>
+                        </mask>
+                        <g id="SVGID_23_"></g>
+                        <path d="M89.8538993,10.64 L89.8538993,22.89 L86.5597236,22.89 L76.8173741,14.77 L76.8173741,22.89 L73.5231984,22.89 L73.5231984,10.64 L75.6258638,10.64 C76.6771964,10.64 77.2379072,10.92 77.798618,11.41 L86.5597236,18.69 L86.5597236,10.64 L89.8538993,10.64 Z" id="Path" fill="#323232" fill-rule="nonzero" mask="url(#mask-20)"></path>
+                    </g>
+                    <g id="Clipped">
+                        <mask id="mask-22" fill="white">
+                            <use xlink:href="#path-21"></use>
+                        </mask>
+                        <g id="SVGID_23_"></g>
+                        <polygon id="Path" fill="#323232" fill-rule="nonzero" mask="url(#mask-22)" points="101.698914 13.37 101.698914 22.89 98.3346496 22.89 98.3346496 13.37 91.5360316 13.37 91.5360316 10.64 108.497532 10.64 108.497532 13.37"></polygon>
+                    </g>
+                    <g id="Clipped">
+                        <mask id="mask-24" fill="white">
+                            <use xlink:href="#path-23"></use>
+                        </mask>
+                        <g id="SVGID_23_"></g>
+                        <path d="M119.501481,20.58 L110.530109,20.58 L109.268509,22.82 L105.553801,22.82 L111.791708,12.11 C112.28233,11.27 112.983218,10.64 114.384995,10.64 L115.786772,10.64 C117.188549,10.64 117.889437,11.27 118.380059,12.11 L124.617966,22.82 L120.833169,22.82 L119.501481,20.58 Z M112.072063,17.92 L117.959526,17.92 L115.226061,13.02 C115.155972,12.88 115.085884,12.88 115.015795,12.88 C114.945706,12.88 114.875617,12.88 114.805528,13.02 L112.072063,17.92 Z" id="Shape" fill="#323232" fill-rule="nonzero" mask="url(#mask-24)"></path>
+                    </g>
+                    <g id="Clipped">
+                        <mask id="mask-26" fill="white">
+                            <use xlink:href="#path-25"></use>
+                        </mask>
+                        <g id="SVGID_23_"></g>
+                        <path d="M125.739388,21.98 L125.459033,21.91 L126.300099,19.25 C128.683119,20.02 131.206318,20.3 133.51925,20.3 C137.304047,20.3 138.215202,19.88 138.215202,19.39 C138.215202,19.18 138.075025,19.04 137.794669,18.97 C137.444225,18.83 136.392892,18.62 133.308983,18.13 C129.87463,17.57 128.332675,17.29 127.211254,16.8 C126.089832,16.31 125.388944,15.47 125.388944,14.21 C125.388944,13.3 125.879566,12.53 126.580454,11.97 C127.912142,10.99 130.154985,10.57 132.538006,10.57 C135.692004,10.57 138.285291,10.85 141.229023,11.55 L141.509378,11.62 L140.80849,14.21 C137.514314,13.51 135.762093,13.3 133.238894,13.3 C131.486673,13.3 130.295163,13.44 129.664363,13.58 C129.313919,13.72 129.173741,13.86 129.173741,14.07 C129.173741,14.28 129.313919,14.42 129.664363,14.56 C130.084896,14.7 130.715696,14.84 134.009872,15.4 C137.654492,15.96 138.846002,16.24 139.827246,16.59 C141.158934,17.08 142,18.06 142,19.25 C142,20.79 140.80849,21.91 138.775913,22.54 C137.514314,22.89 135.832182,23.1 133.939783,23.1 C130.925962,23.03 127.771964,22.61 125.739388,21.98" id="Path" fill="#323232" fill-rule="nonzero" mask="url(#mask-26)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
